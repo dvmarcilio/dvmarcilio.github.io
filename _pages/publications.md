@@ -7,9 +7,9 @@ author_profile: true
 
 You may also find my publications on
 <i class="fab fa-fw fa-google" aria-hidden="true"></i>
-<a href="https://scholar.google.com/citations?user=mFmiw14mkJEC" itemprop="sameAs">Scholar</a>
+<a href="https://scholar.google.com/citations?user=mFmiw14mkJEC" itemprop="sameAs" style="text-decoration:none;">Scholar</a>
 and
-<i class="ai ai-fw ai-dblp" aria-hidden="true"></i>
+<i class="ai ai-fw ai-dblp" aria-hidden="true" style="text-decoration:none;"></i>
 <a href="https://dblp.org/pers/hd/m/Marcilio:Diego" itemprop="sameAs">DBLP</a>
 
 {% include base_path %}
