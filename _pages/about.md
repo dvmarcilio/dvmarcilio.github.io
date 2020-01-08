@@ -18,4 +18,6 @@ I come from an industry background, in which I acquired seven years of experienc
 
 My research interests are motivated by my industry experience and thus center around _aiding developers_ when _understanding, writing, and maintaining source code_.
 
-So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](http://gustavopinto.github.io/lost+found/icpc2019.pdf)), and proposed a tool to automatically fix a subset of useful violations  ([SCAM 2019](https://bugcounting.net/pubs/scam19.pdf)), which fixes were welcomed by established open-source projects.
+So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](http://gustavopinto.github.io/lost+found/icpc2019.pdf)), and proposed a tool to automatically fix a subset of useful violations  ([SCAM 2019](https://bugcounting.net/pubs/scam19.pdf)), which fixes were welcomed by established open-source projects. You can see more of my work in [publications](https://dvmarcilio.github.io/publications).
+
+
