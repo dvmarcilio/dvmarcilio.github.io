@@ -16,4 +16,6 @@ In August 2019, I earned my master degree from [the University of Brasília (UnB
 
 I come from an industry background, in which I acquired seven years of experience working as a Software Engineer, mainly with Web Development, in diverse companies in Brasília, Brazil.
 
-My research interests are motivated by my industry experience and thus center around aiding developers when understanding, writing, and maintaining source code. So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](http://gustavopinto.github.io/lost+found/icpc2019.pdf)), and proposed a tool to automatically fix a subset of useful violations  ([SCAM 2019](https://bugcounting.net/pubs/scam19.pdf)), which fixes received high acceptance by well established open-source projects.
+My research interests are motivated by my industry experience and thus center around _aiding developers_ when _understanding, writing, and maintaining source code_.
+
+So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](http://gustavopinto.github.io/lost+found/icpc2019.pdf)), and proposed a tool to automatically fix a subset of useful violations  ([SCAM 2019](https://bugcounting.net/pubs/scam19.pdf)), which fixes were welcomed by established open-source projects.
