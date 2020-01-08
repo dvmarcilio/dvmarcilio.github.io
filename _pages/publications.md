@@ -14,14 +14,11 @@ and
 
 {% include base_path %}
 
-## 2020
-
 ### [C-3PR: Static Analysis and Bot-generated Code Transformations for the Pull-based Development Model](https://dvmarcilio.github.io/papers/saner2020.pdf)
 27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
 Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](http://wp.rbonifacio.net/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2020.pdf)
 
-## 2019
 
 ### [Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/scam2019.pdf)
 19th IEEE International Working Conference on Source Code Analysis and Manipulation ([SCAM 2019](http://www.ieee-scam.org/2019)) <br>
@@ -39,7 +36,6 @@ Walter Lucas, [Rodrigo Bonifácio](http://wp.rbonifacio.net/), [Edna Canedo](htt
 <i class="fas fa-fw fa-star" aria-hidden="true"></i> Best paper award<br />
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/sbes2019.pdf)
 
-## 2018
 
 ### [Reconciling the past and the present: An empirical study on the application of source code transformations to automatically rejuvenate Java programs](https://dvmarcilio.github.io/papers/saner2018.pdf)
 26th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2018](http://saner.unimol.it/)) <br>
