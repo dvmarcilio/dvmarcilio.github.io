@@ -86,7 +86,7 @@ author:
   location         : "Lugano, Switzerland"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=mFmiw14mkJEC&hl=en&oi=ao"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   dblp             : 
@@ -116,7 +116,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pers/hd/m/Marcilio:Diego"
+  dblp             : "Marcilio:Diego"
+  google_scholar   : "mFmiw14mkJEC"
 
 
 # Reading Files
