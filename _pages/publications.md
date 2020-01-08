@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You may also find my publications on 
+<a href="https://scholar.google.com/citations?user={{ author.google_scholar }}" itemprop="sameAs">
+      <i class="fab fa-fw fa-google" aria-hidden="true"></i> Scholar</a>
+and
+<a href="https://dblp.org/pers/hd/m/{{ author.dblp }}" itemprop="sameAs">
+  <i class="ai ai-fw ai-dblp" aria-hidden="true"></i> DBLP</a>
+
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
