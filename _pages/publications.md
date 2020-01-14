@@ -38,6 +38,6 @@ Walter Lucas, [Rodrigo Bonifácio](http://wp.rbonifacio.net/), [Edna Canedo](htt
 
 
 ### [Reconciling the past and the present: An empirical study on the application of source code transformations to automatically rejuvenate Java programs](https://dvmarcilio.github.io/papers/saner2018.pdf)
-26th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2018 ERA](http://saner.unimol.it/)) <br>
+25th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2018 ERA](http://saner.unimol.it/)) <br>
 Reno Dantas, Antônio Carvalho, **Diego Marcilio**, Luisa Fantin, Uriel Silva, Walter Lucas, [Rodrigo Bonifácio](http://wp.rbonifacio.net/). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2018.pdf)
