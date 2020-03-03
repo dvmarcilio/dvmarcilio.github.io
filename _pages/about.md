@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm **Diego Marcilio**.
 
-Since October 2019, I've been a Ph.D. student in the [Software Institute](https://www.si.usi.ch/) part of the [Faculty of Informatics](https://www.inf.usi.ch) at the [Università della Svizzera Italiana (also known as USI)](https://www.usi.ch), in Lugano, Switzerland. I am currently working under the supervision of [Prof. Dr. Carlo A. Furia](https://bugcounting.net/).
+Since October 2019, I've been a Ph.D. student in the [Software Institute](https://www.si.usi.ch/) part of the [Faculty of Informatics](https://www.inf.usi.ch) at the [Università della Svizzera italiana (also known as USI)](https://www.usi.ch), in Lugano, Switzerland. I am currently working under the supervision of [Prof. Dr. Carlo A. Furia](https://bugcounting.net/).
 
 In August 2019, I earned my master degree from [the University of Brasília (UnB)](https://unb.br/), in Brazil, under the supervision of [Prof. Dr. Rodrigo Bonifácio](https://wp.rbonifacio.net/). During that time, I also had the privilege of working along with [Prof. Dr. Gustavo Pinto](http://gustavopinto.org/) in some publications.
 
