@@ -16,8 +16,8 @@ In August 2019, I earned my master degree from [the University of Brasília (UnB
 
 I come from an industry background, in which I acquired seven years of experience working as a Software Engineer, mainly with Web Development, in diverse companies in Brasília, Brazil.
 
-My research interests are motivated by my industry experience and thus center around _aiding developers_ when _understanding, writing, evolving and maintaining source code_.
+My research interests are motivated by my industry experience and thus center around _aiding developers_ when _understanding, writing, evolving, and maintaining source code_.
 
-So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)), and proposed a tool to automatically fix a subset of useful violations  ([SCAM 2019](https://dvmarcilio.github.io/papers/scam2019.pdf)), which fixes were welcomed by established open-source projects. You can see more of my work in [publications](https://dvmarcilio.github.io/publications).
+So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of useful violations  ([JSS 2020](ttps://dvmarcilio.github.io/papers/jss20-spongebugs.pdf), [SCAM 2019](https://dvmarcilio.github.io/papers/scam2019.pdf)), which fixes were welcomed by established open-source projects. You can see more of my work in [publications](https://dvmarcilio.github.io/publications).
 
-You can reach me at diego.marcilio@usi.ch.
+Please reach me at diego.marcilio@usi.ch.
