@@ -14,11 +14,16 @@ and
 
 {% include base_path %}
 
+### [SpongeBugs: Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
+Accepted for publication at Journal of Systems and Software ([JSS 2020](https://www.journals.elsevier.com/journal-of-systems-and-software)) <br>
+**Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/), [Rodrigo Bonifácio](http://wp.rbonifacio.net/), [Gustavo Pinto](http://gustavopinto.org). <br>
+This paper extends the [SCAM paper](#Automatically-Generating-Fix-Suggestions-in-Response-to-Static-Code-Analysis-Warnings) with a similar title<br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
+
 ### [C-3PR: Static Analysis and Bot-generated Code Transformations for the Pull-based Development Model](https://dvmarcilio.github.io/papers/saner2020.pdf)
 27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
 Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](http://wp.rbonifacio.net/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2020.pdf)
-
 
 ### [Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/scam2019.pdf)
 19th IEEE International Working Conference on Source Code Analysis and Manipulation ([SCAM 2019](http://www.ieee-scam.org/2019)) <br>
