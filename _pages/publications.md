@@ -14,8 +14,13 @@ and
 
 {% include base_path %}
 
+### [How Java Programmers Test Exceptional Behavior](https://dvmarcilio.github.io/papers/msr2021.pdf)
+Accepted for publication at the 2021 Mining Software Repositories Conference ([MSR 2021](https://2021.msrconf.org/track/msr-2021-technical-papers)) <br>
+**Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/msr2021.pdf)
+
 ### [SpongeBugs: Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
-Accepted for publication at Journal of Systems and Software ([JSS 2020](https://www.journals.elsevier.com/journal-of-systems-and-software)) <br>
+Journal of Systems and Software ([JSS 2020](https://www.journals.elsevier.com/journal-of-systems-and-software)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/), [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org). <br>
 This paper extends the [SCAM paper](https://dvmarcilio.github.io/papers/scam2019.pdf) with a similar title<br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
@@ -24,6 +29,11 @@ This paper extends the [SCAM paper](https://dvmarcilio.github.io/papers/scam2019
 27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
 Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2020.pdf)
+
+### [Understanding the impact of introducing Lambda expressions in Java Programs](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
+Journal of Software Engineering Research and Development ([JSERD 2020](https://sol.sbc.org.br/journals/index.php/jserd)) <br>
+Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Open Access](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 
 ### [Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/scam2019.pdf)
 19th IEEE International Working Conference on Source Code Analysis and Manipulation ([SCAM 2019](http://www.ieee-scam.org/2019)) <br>
