@@ -21,7 +21,7 @@ Accepted for publication at the 2021 Mining Software Repositories Conference ([M
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/msr2021.pdf)
 
-## 2020
+## 2018–2020
 
 ### [SpongeBugs: Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
 Journal of Systems and Software ([JSS 2020](https://www.journals.elsevier.com/journal-of-systems-and-software)) <br>
@@ -39,8 +39,6 @@ Journal of Software Engineering Research and Development ([JSERD 2020](https://s
 Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Open Access](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 
-## 2019 
-
 ### [Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/scam2019.pdf)
 19th IEEE International Working Conference on Source Code Analysis and Manipulation ([SCAM 2019](http://www.ieee-scam.org/2019)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/), [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org). <br>
@@ -56,8 +54,6 @@ Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonif�
 Walter Lucas, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), **Diego Marcilio**, Fernanda Lima. <br>
 <i class="fas fa-fw fa-star" aria-hidden="true"></i> Best paper award<br />
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/sbes2019.pdf)
-
-## 2018
 
 ### [Reconciling the past and the present: An empirical study on the application of source code transformations to automatically rejuvenate Java programs](https://dvmarcilio.github.io/papers/saner2018.pdf)
 25th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2018 ERA](http://saner.unimol.it/)) <br>
