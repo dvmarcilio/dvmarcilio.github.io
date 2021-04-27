@@ -21,7 +21,7 @@ My research interests are motivated by my industry experience and thus center ar
 
 So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of useful violations  ([JSS 2020](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)), which fixes were welcomed by established open-source projects.
 
-More recently, I've looked into how developers of popular Java open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/papers/msr21)).
+More recently, I've looked into how developers of popular Java open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)).
 You can see more of my work in [publications](https://dvmarcilio.github.io/publications).
 
 Please reach me at diego.marcilio@usi.ch.
