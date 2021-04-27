@@ -31,12 +31,12 @@ This paper extends the [SCAM paper](https://dvmarcilio.github.io/papers/scam2019
 
 ### [C-3PR: Static Analysis and Bot-generated Code Transformations for the Pull-based Development Model](https://dvmarcilio.github.io/papers/saner2020.pdf)
 27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
-Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias). <br>
+Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://cic.unb.br/~ednacanedo/). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2020.pdf)
 
 ### [Understanding the impact of introducing Lambda expressions in Java Programs](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 Journal of Software Engineering Research and Development ([JSERD 2020](https://sol.sbc.org.br/journals/index.php/jserd)) <br>
-Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
+Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Open Access](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 
 ## 2019 
@@ -48,12 +48,12 @@ Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonif�
 
 ### [Are Static Analysis Violations Really Fixed? A Closer Look at Realistic Usage of SonarQube](https://dvmarcilio.github.io/papers/icpc2019.pdf)
 27th IEEE/ACM International Conference on Program Comprehension ([ICPC 2019](https://conf.researchr.org/home/icpc-2019)) <br>
-**Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), Eduardo Monteiro, [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias), [Welder Luz](https://github.com/wweellddeerr), [Gustavo Pinto](http://gustavopinto.org). <br>
+**Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), Eduardo Monteiro, [Edna Canedo](https://cic.unb.br/~ednacanedo/), [Welder Luz](https://github.com/wweellddeerr), [Gustavo Pinto](http://gustavopinto.org). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/icpc2019.pdf)
 
 ### [Does the Introduction of Lambda Expressions Improve the Comprehension of Java Programs?](https://dvmarcilio.github.io/papers/sbes2019.pdf)
 32nd Brazilian Symposium on Software Engineering ([SBES 2019](https://cbsoft2019.ufba.br/#/sbes)) <br>
-Walter Lucas, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://dblp.uni-trier.de/pers/hd/c/Canedo:Edna_Dias), **Diego Marcilio**, Fernanda Lima. <br>
+Walter Lucas, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), **Diego Marcilio**, Fernanda Lima. <br>
 <i class="fas fa-fw fa-star" aria-hidden="true"></i> Best paper award<br />
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/sbes2019.pdf)
 
