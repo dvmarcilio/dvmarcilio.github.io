@@ -30,9 +30,9 @@ We found that:
 The paper also zeroes in on several detailed examples involving some of the largest analyzed projects, which refine the empirical results with qualitative evidence. 
 The study’s findings, and the capabilities ofthe tool we developed to analyze exceptional tests, suggest several implications for the practice of software development and for follow-up empirical studies.
 
-## Dataset and tool
+## Replication Package
 
-[Available in figshare](https://doi.org/10.6084/m9.figshare.13547561).
+A replication package including the tool, the dataset and all scripts used for the analysis is [available on figshare](https://doi.org/10.6084/m9.figshare.13547561).
 
 ## Top-17 Tested Exceptions
 
