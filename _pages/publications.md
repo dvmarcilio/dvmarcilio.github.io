@@ -16,7 +16,7 @@ and
 
 ## 2021
 
-### [How Java Programmers Test Exceptional Behavior](https://dvmarcilio.github.io/papers/msr2021.pdf)
+### [How Java Programmers Test Exceptional Behavior](https://dvmarcilio.github.io/msr21)
 Accepted for publication at the 2021 Mining Software Repositories Conference ([MSR 2021](https://2021.msrconf.org/track/msr-2021-technical-papers)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> [Overview](https://dvmarcilio.github.io/msr21) <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/msr2021.pdf)
