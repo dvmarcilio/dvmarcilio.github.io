@@ -15,7 +15,7 @@ Accepted for publication at the 2021 Mining Software Repositories Conference ([M
 
 <i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package including the tool, the dataset and all scripts used for the analysis](https://doi.org/10.6084/m9.figshare.13547561)
 
-<i class="fas fa-fw fa-video" aria-hidden="true"></i> [Quick 4 minutes summary video]()
+<i class="fas fa-fw fa-video" aria-hidden="true"></i> [4 minutes summary video]()
 
 <i class="fas fa-fw fa-images" aria-hidden="true"></i> [Slides]()
 
