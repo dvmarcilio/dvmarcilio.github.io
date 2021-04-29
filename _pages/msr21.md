@@ -11,11 +11,11 @@ Accepted for publication at the 2021 Mining Software Repositories Conference ([M
 
 <img src="/images/msr21-first-page.png" width="480">
 
-<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Please check the preprint.](https://dvmarcilio.github.io/papers/msr2021.pdf)
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/msr2021.pdf)
 
 <i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package including the tool, the dataset and all scripts used for the analysis](https://doi.org/10.6084/m9.figshare.13547561)
 
-<i class="fas fa-fw fa-video" aria-hidden="true"></i> [This paper has a quick 4 minutes summary video.]()
+<i class="fas fa-fw fa-video" aria-hidden="true"></i> [Quick 4 minutes summary video]()
 
 <i class="fas fa-fw fa-images" aria-hidden="true"></i> [Slides]()
 
