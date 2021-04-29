@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %} 
 
+Accepted for publication at the 2021 Mining Software Repositories Conference ([MSR 2021](https://2021.msrconf.org/track/msr-2021-technical-papers))
 
 <img src="/images/msr21-first-page.png" width="480">
 
