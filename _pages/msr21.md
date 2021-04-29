@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %} 
 
 
-<center><img src="/images/msr21-first-page.png" width="480"></center>
+<img src="/images/msr21-first-page.png" width="480">
 
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Please check the preprint here.](https://dvmarcilio.github.io/papers/msr2021.pdf)
 
