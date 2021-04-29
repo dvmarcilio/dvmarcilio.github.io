@@ -11,9 +11,13 @@ Accepted for publication at the 2021 Mining Software Repositories Conference ([M
 
 <img src="/images/msr21-first-page.png" width="480">
 
-<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Please check the preprint here.](https://dvmarcilio.github.io/papers/msr2021.pdf)
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Please check the preprint.](https://dvmarcilio.github.io/papers/msr2021.pdf)
 
-<i class="fas fa-fw fa-video" aria-hidden="true"></i> [This paper has a quick 4 minutes summary video available here.]()
+<i class="far fa-fw fa-copy" aria-hidden="true"></i> [Replication package including the tool, the dataset and all scripts used for the analysis](https://doi.org/10.6084/m9.figshare.13547561)
+
+<i class="fas fa-fw fa-video" aria-hidden="true"></i> [This paper has a quick 4 minutes summary video.]()
+
+<i class="far fa-fw fa-image" aria-hidden="true"></i> [Slides]()
 
 ## Abstract
 
@@ -31,10 +35,6 @@ We found that:
 
 The paper also zeroes in on several detailed examples involving some of the largest analyzed projects, which refine the empirical results with qualitative evidence. 
 The study’s findings, and the capabilities ofthe tool we developed to analyze exceptional tests, suggest several implications for the practice of software development and for follow-up empirical studies.
-
-## Replication Package
-
-A replication package including the tool, the dataset and all scripts used for the analysis is [available on figshare](https://doi.org/10.6084/m9.figshare.13547561).
 
 ## Top-17 Tested Exceptions
 
