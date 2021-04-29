@@ -7,11 +7,12 @@ author_profile: true
 
 {% include base_path %} 
 
-<img src="/images/msr21-first-page.png" width="480">
 
-[Please check the preprint here](https://dvmarcilio.github.io/papers/msr2021.pdf).
+<center><img src="/images/msr21-first-page.png" width="480"></center>
 
-[The paper also has a quick 4 minutes summary video available here.]()
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Please check the preprint here.](https://dvmarcilio.github.io/papers/msr2021.pdf)
+
+<i class="fas fa-fw fa-video" aria-hidden="true"></i> [This paper has a quick 4 minutes summary video available here.]()
 
 ## Abstract
 
