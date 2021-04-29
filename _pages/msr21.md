@@ -30,8 +30,8 @@ We found that:
 
 - exceptional tests are only 13% of all tests, but tend to be larger than other tests on average; 
 - unchecked exceptions are tested twice as frequently as checked ones;
-- 42% of all exceptional tests usetry/catch blocks and usually are larger than those using other idioms; 
-- and bigger projects with more contributors tend to havemore exceptional tests written using different styles. 
+- 42% of all exceptional tests use try/catch blocks and usually are larger than those using other idioms; 
+- and bigger projects with more contributors tend to have more exceptional tests written using different styles. 
 
 The paper also zeroes in on several detailed examples involving some of the largest analyzed projects, which refine the empirical results with qualitative evidence. 
 The study’s findings, and the capabilities ofthe tool we developed to analyze exceptional tests, suggest several implications for the practice of software development and for follow-up empirical studies.
