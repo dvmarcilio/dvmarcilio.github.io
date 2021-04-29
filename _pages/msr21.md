@@ -17,7 +17,7 @@ Accepted for publication at the 2021 Mining Software Repositories Conference ([M
 
 <i class="fas fa-fw fa-video" aria-hidden="true"></i> [This paper has a quick 4 minutes summary video.]()
 
-<i class="fas fa-fw fa-image" aria-hidden="true"></i> [Slides]()
+<i class="fas fa-fw fa-images" aria-hidden="true"></i> [Slides]()
 
 ## Abstract
 
