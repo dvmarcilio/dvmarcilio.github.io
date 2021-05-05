@@ -17,7 +17,7 @@ Accepted for publication at the 2021 Mining Software Repositories Conference ([M
 
 <i class="fas fa-fw fa-video" aria-hidden="true"></i> [4 minutes summary video](https://youtu.be/1vZRwgJnA8M)
 
-<i class="fas fa-fw fa-images" aria-hidden="true"></i> [Slides]()
+<i class="fas fa-fw fa-images" aria-hidden="true"></i> [Slides](https://dvmarcilio.github.io/papers/MSR-presentation.pdf)
 
 ## Abstract
 
