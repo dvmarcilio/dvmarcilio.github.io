@@ -35,23 +35,3 @@ We found that:
 
 The paper also zeroes in on several detailed examples involving some of the largest analyzed projects, which refine the empirical results with qualitative evidence. 
 The study’s findings, and the capabilities ofthe tool we developed to analyze exceptional tests, suggest several implications for the practice of software development and for follow-up empirical studies.
-
-## Top-17 Tested Exceptions
-
-1. java.lang.IllegalArgumentException
-1. java.lang.Exception
-1. java.lang.UnsupportedOperationException
-1. java.lang.NullPointerException
-1. java.lang.Throwable
-1. java.lang.IllegalStateException
-1. java.io.IOException
-1. java.lang.AssertionError
-1. java.lang.IndexOutOfBoundsException
-1. java.lang.RuntimeException
-1. java.lang.InterruptedException
-1. java.util.NoSuchElementException
-1. java.sql.SQLException
-1. java.util.concurrent.ExecutionException
-1. java.lang.ClassCastException
-1. java.lang.ArithmeticException
-1. java.lang.NumberFormatException
