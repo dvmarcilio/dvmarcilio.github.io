@@ -30,6 +30,7 @@ Journal of Systems and Software ([JSS 2020](https://www.journals.elsevier.com/jo
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/), [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org). <br>
 This paper extends the [SCAM paper](https://dvmarcilio.github.io/papers/scam2019.pdf) with a similar title<br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
+<i class="fab fa-fw fa-github-square"></i> [Tool](https://github.com/dvmarcilio/SpongeBugs/)
 
 ### [C-3PR: Static Analysis and Bot-generated Code Transformations for the Pull-based Development Model](https://dvmarcilio.github.io/papers/saner2020.pdf)
 27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
@@ -45,6 +46,7 @@ Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonif�
 19th IEEE International Working Conference on Source Code Analysis and Manipulation ([SCAM 2019](http://www.ieee-scam.org/2019)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/), [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/scam2019.pdf)
+<i class="fab fa-fw fa-github-square"></i> [Tool](https://github.com/dvmarcilio/SpongeBugs/)
 
 ### [Are Static Analysis Violations Really Fixed? A Closer Look at Realistic Usage of SonarQube](https://dvmarcilio.github.io/papers/icpc2019.pdf)
 27th IEEE/ACM International Conference on Program Comprehension ([ICPC 2019](https://conf.researchr.org/home/icpc-2019)) <br>
