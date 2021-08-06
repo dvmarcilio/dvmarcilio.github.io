@@ -50,6 +50,7 @@ Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonif�
 27th IEEE/ACM International Conference on Program Comprehension ([ICPC 2019](https://conf.researchr.org/home/icpc-2019)) <br>
 **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), Eduardo Monteiro, [Edna Canedo](https://cic.unb.br/~ednacanedo/), [Welder Luz](https://github.com/wweellddeerr), [Gustavo Pinto](http://gustavopinto.org). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/icpc2019.pdf)
+<i class="fas fa-fw fa-table" aria-hidden="true"></i> [Dataset](https://zenodo.org/record/2602039)
 
 ### [Does the Introduction of Lambda Expressions Improve the Comprehension of Java Programs?](https://dvmarcilio.github.io/papers/sbes2019.pdf)
 32nd Brazilian Symposium on Software Engineering ([SBES 2019](https://cbsoft2019.ufba.br/#/sbes)) <br>
