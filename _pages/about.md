@@ -17,9 +17,8 @@ My research interests center around _aiding developers_ when _understanding_, _w
 So far, I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of useful violations  ([JSS 2020](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)), which fixes were welcomed by established open-source projects.
 
 More recently, I've looked into how developers of popular Java open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)).
-You can see more of my work in [publications](https://dvmarcilio.github.io/publications).
 
-Please reach me at diego.marcilio@usi.ch.
+You can see more of my work in [publications](https://dvmarcilio.github.io/publications) and reach me at diego.marcilio@usi.ch .
 
 ### Background
 
@@ -27,5 +26,5 @@ In August 2019, I earned my master degree from [the University of Brasília (UnB
 
 My master thesis was awarded 1st place in the thesis competition at the Brazilian Symposium on Software Engineering 2020 [(SBES)](http://cbsoft2020.imd.ufrn.br/sbes-ctd.php), which considered master theses defended in Brazil during 2019.
 
-I come from an industry background, in which I acquired seven years of experience working as a Software Engineer in diverse companies in Brasília, Brazil.
-This experience deeply motivates my research interests.
+Before starting my masters, I worked for more than seven years as a Software Engineer in several companies in Brasília, Brazil.
+This practical experience deeply motivates my research interests.
