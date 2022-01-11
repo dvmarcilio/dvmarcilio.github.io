@@ -14,6 +14,9 @@ and
 
 {% include base_path %}
 
+## 2022
+
+
 ## 2021
 
 ### [How Java Programmers Test Exceptional Behavior](https://dvmarcilio.github.io/msr21)
@@ -86,16 +89,6 @@ This paper extends the [SCAM paper](https://dvmarcilio.github.io/papers/scam2019
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
 <i class="fab fa-fw fa-github-square"></i> [Tool](https://github.com/dvmarcilio/SpongeBugs/)
 
-### [C-3PR: Static Analysis and Bot-generated Code Transformations for the Pull-based Development Model](https://dvmarcilio.github.io/papers/saner2020.pdf)
-27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
-Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://cic.unb.br/~ednacanedo/). <br>
-<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2020.pdf)
-
-### [Understanding the impact of introducing Lambda expressions in Java Programs](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
-Journal of Software Engineering Research and Development ([JSERD 2020](https://sol.sbc.org.br/journals/index.php/jserd)) <br>
-Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
-<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Open Access](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
-
 ### [Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/scam2019.pdf)
 19th IEEE International Working Conference on Source Code Analysis and Manipulation ([SCAM 2019](http://www.ieee-scam.org/2019)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/), [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org). <br>
@@ -107,6 +100,16 @@ Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonif�
 **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), Eduardo Monteiro, [Edna Canedo](https://cic.unb.br/~ednacanedo/), [Welder Luz](https://github.com/wweellddeerr), [Gustavo Pinto](http://gustavopinto.org). <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/icpc2019.pdf)
 <i class="fas fa-fw fa-table" aria-hidden="true"></i> [Dataset](https://zenodo.org/record/2602039)
+
+### [C-3PR: Static Analysis and Bot-generated Code Transformations for the Pull-based Development Model](https://dvmarcilio.github.io/papers/saner2020.pdf)
+27th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2020](https://saner2020.csd.uwo.ca/)) <br>
+Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Gustavo Pinto](http://gustavopinto.org), [Edna Canedo](https://cic.unb.br/~ednacanedo/). <br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/saner2020.pdf)
+
+### [Understanding the impact of introducing Lambda expressions in Java Programs](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
+Journal of Software Engineering Research and Development ([JSERD 2020](https://sol.sbc.org.br/journals/index.php/jserd)) <br>
+Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Open Access](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 
 ### [Does the Introduction of Lambda Expressions Improve the Comprehension of Java Programs?](https://dvmarcilio.github.io/papers/sbes2019.pdf)
 32nd Brazilian Symposium on Software Engineering ([SBES 2019](https://cbsoft2019.ufba.br/#/sbes)) <br>
