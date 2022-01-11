@@ -23,6 +23,60 @@ and
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/msr2021.pdf)
 <i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package](https://doi.org/10.6084/m9.figshare.13547561)
 
+### [A Fine-grained Data Set and Analysis of Tangling in Bug Fixing Commits](https://dvmarcilio.github.io/papers/herbold-emse2021.pdf)
+Empirical Software Engineering ([EMSE 2021](https://www.springer.com/journal/10664)) <br>
+[Steffen Herbold](http://www.sherbold.de/),
+[Alexander Trautsch](https://www.swe.informatik.uni-goettingen.de/staff/alexander-trautsch),
+[Benjamin Ledel](https://www.swe.informatik.uni-goettingen.de/staff/benjamin-ledel),
+[Alireza Aghamohammadi](https://www.linkedin.com/in/aaghamohammadi/),
+[Taher Ahmed Ghaleb](https://taher-ghaleb.github.io/),
+[Kuljit Kaur Chahal](https://dblp.org/pid/09/6071.html),
+[Tim Bossenmaier](https://dblp.org/pid/278/8215.html),
+[Bhaveet Nagaria](https://www.brunel.ac.uk/people/bhaveet-nagaria),
+[Philip Makedonski](https://www.swe.informatik.uni-goettingen.de/staff/philip-makedonski),
+[Matin Nili Ahmadabadi](https://dblp.org/pid/278/8173.html),
+[Krist&oacute;f Szabados](https://dblp.org/pid/35/7512.html),
+[Helge Spieker](https://hspieker.de/),
+[Matej Madeja](https://madeja.github.io/),
+[Nathaniel Hoy](https://www.brunel.ac.uk/people/nathaniel-hoy),
+[Valentina Lenarduzzi](http://www.valentinalenarduzzi.it/),
+[Shangwen Wang](https://shangwenwang.github.io/),
+[Gema Rodriguez Perez](https://gemarodri.github.io/PersonalWeb/"),
+[Ricardo Colomo-Palacios](http://www.rcolomo.com/),
+[Roberto Verdecchia](https://robertoverdecchia.github.io/),
+[Paramvir Singh](https://www.science.auckland.ac.nz/people/profile/psin750),
+[Yihao Qin](https://ieeexplore.ieee.org/author/37088698707),
+[Debasish Chakroborti](https://ise.usask.ca/team/),
+[Willard Davis](https://dblp.org/pid/06/2831.html),
+[Vijay Walunj](https://www.researchgate.net/profile/Vijay-Walunj),
+[Hongjun Wu](https://dl.acm.org/profile/99659673069),
+**Diego Marcilio**,
+[Omar Alam](https://omaralam.org/),
+[Abdullah Aldaeej](https://dblp.org/pid/179/8621.html),
+[Idan Amit](https://dblp.org/pid/232/3057.html),
+[Burak Turhan](https://turhanb.net/),
+[Simon Eismann](https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/simon-eismann/),
+[Anna-Katharina Wickert](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/anna_katharina_wickert_1.en.jsp),
+[Ivano Malavolta](http://www.ivanomalavolta.com/),
+[Mat&uacute;&scaron; Sul&iacute;r](https://sulir.github.io/),
+[Fatemeh Fard](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/),
+[Austin Z. Henley](http://web.eecs.utk.edu/~azh/),
+[Stratos Kourtzanidis](https://www.linkedin.com/in/skourtzanidis/),
+[Eray T&uuml;z&uuml;n](https://eraytuzun.com/index.html),
+[Christoph Treude](https://ctreude.ca/),
+[Simin Maleki Shamasbi](https://www.linkedin.com/in/siminmaleki/),
+[Ivan Pashchenko](https://sites.google.com/g.unitn.it/pashchenko),
+[Marvin Wyrich](https://www.iste.uni-stuttgart.de/institute/team/Wyrich/),
+[James C. Davis](https://davisjam.github.io/),
+[Alexander Serebrenik](https://www.win.tue.nl/~aserebre/),
+[Ella Albrecht](https://www.swe.informatik.uni-goettingen.de/staff/ella-albrecht),
+[Ethem Utku Aktas](http://myweb.sabanciuniv.edu/ethemutku/),
+[Daniel Str&uuml;ber](https://www.danielstrueber.de/),
+[Johannes Erbel](https://www.swe.informatik.uni-goettingen.de/staff/johannes-martin-erbel)
+<br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/herbold-emse2021.pdf)
+<i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> [arXiv](https://arxiv.org/abs/2011.06244)
+
 ## 2018–2020
 
 ### [SpongeBugs: Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)
