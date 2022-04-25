@@ -84,6 +84,7 @@ Empirical Software Engineering ([EMSE 2021](https://www.springer.com/journal/106
 <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/herbold-emse2021.pdf)
 <i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> [arXiv](https://arxiv.org/abs/2011.06244)
+<i class="fas fa-fw fa-video" aria-hidden="true"></i> [Presentation video](https://www.youtube.com/watch?v=JKYkw-nxE8M)
 
 ## 2018–2020
 
