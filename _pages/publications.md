@@ -14,15 +14,13 @@ and
 
 {% include base_path %}
 
-## 2022
+## 2021–2022
 ### [Static Analysis Warnings and Automatic Fixing: A Replication for C# Projects](https://dvmarcilio.github.io/papers/odermatt-saner2022-rene.pdf)
 29th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2022 RENE](https://saner2022.uom.gr/negativerestrack)) <br>
 [Martin Odermatt](https://github.com/marodev/), **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/odermatt-saner2022-rene.pdf)
 <i class="fas fa-fw fa-table" aria-hidden="true"></i> [Dataset](https://zenodo.org/record/5838454)
 <i class="fab fa-fw fa-github-square"></i> [Tool](https://github.com/marodev/EagleRepair)
-
-## 2021
 
 ### [How Java Programmers Test Exceptional Behavior](https://dvmarcilio.github.io/msr21)
 18th IEEE/ACM International Conference on Mining Software Repositories ([MSR 2021](https://2021.msrconf.org/track/msr-2021-technical-papers)) <br>
