@@ -20,7 +20,7 @@ and
 38th IEEE International Conference on Software Maintenance and Evolution ([ICSME 2022](https://cyprusconferences.org/icsme2022/)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)
-<i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package](https://doi.org/10.6084/m9.figshare.19086992.v1)
+<i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package](https://doi.org/10.6084/m9.figshare.19086992)
 
 ### [How Java Programmers Test Exceptional Behavior](https://dvmarcilio.github.io/msr21)
 18th IEEE/ACM International Conference on Mining Software Repositories ([MSR 2021](https://2021.msrconf.org/track/msr-2021-technical-papers)) <br>
