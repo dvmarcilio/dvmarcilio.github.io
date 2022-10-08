@@ -19,6 +19,7 @@ and
 ### [What Is Thrown? Lightweight Precise Automatic Extraction of Exceptional Preconditions in Java Methods](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)
 38th IEEE International Conference on Software Maintenance and Evolution ([ICSME 2022](https://cyprusconferences.org/icsme2022/)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
+<i class="fas fa-fw fa-star" aria-hidden="true"></i>Distinguished paper award<br />
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)
 <i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package](https://doi.org/10.6084/m9.figshare.19086992)
 
