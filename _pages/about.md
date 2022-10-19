@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm **Diego Marcilio**.
 
-Since October 2019, I've been a Ph.D. student in the [Software Institute](https://www.si.usi.ch/) part of the [Faculty of Informatics](https://www.inf.usi.ch) at the [Università della Svizzera italiana (also known as USI)](https://www.usi.ch), in Lugano, Switzerland. I am currently working under the supervision of [Prof. Dr. Carlo A. Furia](https://bugcounting.net/).
+Since October 2019, I've been a Ph.D. student in the [Software Institute](https://www.si.usi.ch/) part of the [Faculty of Informatics](https://www.inf.usi.ch) at the [Università della Svizzera italiana (also known as USI)](https://www.usi.ch/en), in Lugano, Switzerland. I am currently working under the supervision of [Prof. Dr. Carlo A. Furia](https://bugcounting.net/).
 
 My research interests center around _aiding developers_ when _understanding_, _writing_, _evolving_, and _maintaining source code_.
 
@@ -28,5 +28,5 @@ In August 2019, I earned my master degree from [the University of Brasília (UnB
 
 My master thesis was awarded 1st place in the thesis competition at the Brazilian Symposium on Software Engineering 2020 [(SBES)](http://cbsoft2020.imd.ufrn.br/sbes-ctd.php), which considered master theses defended in Brazil during 2019.
 
-Before starting my masters, I worked for more than seven years as a Software Engineer in several companies in Brasília, Brazil.
+Before and during my masters, I worked for more than seven years as a Software Engineer in several companies in Brasília, Brazil.
 This practical experience deeply motivates my research interests.
