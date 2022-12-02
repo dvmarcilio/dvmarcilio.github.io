@@ -121,6 +121,7 @@ Antônio Carvalho, [Welder Luz](https://github.com/wweellddeerr), **Diego Marcil
 ### [Understanding the impact of introducing Lambda expressions in Java Programs](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 Journal of Software Engineering Research and Development ([JSERD 2020](https://sol.sbc.org.br/journals/index.php/jserd)) <br>
 Walter Lucas, José Fortes, Francisco Lopes, **Diego Marcilio**, [Rodrigo Bonifácio](https://rbonifacio.github.io/), [Edna Canedo](https://cic.unb.br/~ednacanedo/), Fernanda Lima, [João Saraiva](https://haslab.uminho.pt/jas/) <br>
+This paper extends the [SBES paper](?](https://dvmarcilio.github.io/papers/sbes2019.pdf) with a similar title<br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Open Access](https://repositorium.sdum.uminho.pt/bitstream/1822/69124/1/Understanding.the.Impact.of.Introducing.Lambda.Expressions.in.Java.Programs.JSERD2020.pdf)
 
 ### [Does the Introduction of Lambda Expressions Improve the Comprehension of Java Programs?](https://dvmarcilio.github.io/papers/sbes2019.pdf)
