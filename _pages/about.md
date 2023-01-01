@@ -18,9 +18,12 @@ I've investigated which kind of static analysis tools violations Java developers
 
 More recently, I'm exploring Java Exceptions. I've looked into how developers of popular open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)) and devised a technique to automatically extract exception preconditions of methods ([ICSME 2022](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)). We used some of our extracted preconditions to add and improve the documentation of Apache projects.
 
-From September 2022, I'm an intern in the [Uber Programming Systems Group](https://www.uber.com/dk/en/about/science/) working from the lively Aarhus, Denmark.
+From September-December 2022, I was an intern in the [Uber Programming Systems Group](https://www.uber.com/dk/en/about/science/) working from the lively Aarhus, Denmark.
+I had the pleasure to work with Dr. Raj Barik and Dr. [Ameya Ketkar](https://ameya-ketkar.notion.site/ameya-ketkar/About-me-afad4849885542b8865c3bf44402af9a) on static analysis and refactoring tools.
+My main contribution was adding GoLang support to [Piranha](https://github.com/uber/piranha), a tool for cleaning up code related to feature flags.
 
-You can see more of my work in [publications](https://dvmarcilio.github.io/publications) and reach me at diego.marcilio@usi.ch .
+You can see more of my work in [publications](https://dvmarcilio.github.io/publications). 
+Please reach me at diego.marcilio@usi.ch .
 
 ### Background
 
