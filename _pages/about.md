@@ -12,7 +12,7 @@ Hi, I'm **Diego Marcilio**.
 
 Since October 2019, I've been a Ph.D. student in the [Software Institute](https://www.si.usi.ch/) part of the [Faculty of Informatics](https://www.inf.usi.ch) at the [Università della Svizzera italiana (also known as USI)](https://www.usi.ch/en), in Lugano, Switzerland. I am currently working under the supervision of [Prof. Dr. Carlo A. Furia](https://bugcounting.net/).
 
-My research interests center around _aiding developers_ when _understanding_, _writing_, _evolving_, and _maintaining source code_.
+My research interests center around _aiding developers_ when _understanding_, _writing_, _evolving_, and _maintaining_ **source code**.
 
 I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of useful violations  ([JSS 2020](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)), which fixes were welcomed by established open-source projects.
 
