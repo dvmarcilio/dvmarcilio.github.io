@@ -30,6 +30,23 @@ and
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/msr2021.pdf)
 <i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package](https://doi.org/10.6084/m9.figshare.13547561)
 
+### An Investigation of confusing code patterns in JavaScript
+Journal of Systems and Software ([JSS 2023](https://www.sciencedirect.com/journal/journal-of-systems-and-software)) <br>
+[Adriano Torres](https://www.linkedin.com/in/adrianorftorres/),
+Caio Oliveira,
+Marcio Okimoto,
+**Diego Marcilio**,
+Pedro Queiroga,
+[Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor/),
+[Rodrigo Bonifácio](https://rbonifacio.github.io/),
+[Marcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/),
+[Edna Canedo](https://cic.unb.br/~ednacanedo/),
+Eduardo Monteiro
+
+
+<i class="fas fa-fw fa-file-link" aria-hidden="true"></i> [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121223001267)
+
+
 ### [Static Analysis Warnings and Automatic Fixing: A Replication for C# Projects](https://dvmarcilio.github.io/papers/odermatt-saner2022-rene.pdf)
 29th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2022 RENE](https://saner2022.uom.gr/negativerestrack)) <br>
 [Martin Odermatt](https://github.com/marodev/), **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
