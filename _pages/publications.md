@@ -41,10 +41,9 @@ Pedro Queiroga,
 [Rodrigo Bonifácio](https://rbonifacio.github.io/),
 [Marcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/),
 [Edna Canedo](https://cic.unb.br/~ednacanedo/),
-Eduardo Monteiro
+Eduardo Monteiro <br>
 
-
-<i class="fas fa-fw fa-file-link" aria-hidden="true"></i> [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121223001267)
+<i class="fas fa-fw fa-link" aria-hidden="true"></i> [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121223001267)
 
 
 ### [Static Analysis Warnings and Automatic Fixing: A Replication for C# Projects](https://dvmarcilio.github.io/papers/odermatt-saner2022-rene.pdf)
