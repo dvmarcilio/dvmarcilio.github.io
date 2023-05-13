@@ -41,8 +41,8 @@ Pedro Queiroga,
 [Rodrigo Bonifácio](https://rbonifacio.github.io/),
 [Marcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/),
 [Edna Canedo](https://cic.unb.br/~ednacanedo/),
-Eduardo Monteiro <br>
-
+Eduardo Monteiro
+<br>
 <i class="fas fa-fw fa-link" aria-hidden="true"></i> [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121223001267)
 
 
