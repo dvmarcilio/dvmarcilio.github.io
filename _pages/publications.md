@@ -16,6 +16,12 @@ and
 
 ## 2021–Today
 
+### [Towards Code Improvements Suggestions from Client Exception Analysis](https://dvmarcilio.github.io/papers/marcilio-furia-icsme23.pdf)
+accepted at 39th IEEE International Conference on Software Maintenance and Evolution ([ICSME 2023 NIER](https://conf.researchr.org/track/icsme-2023/icsme-2023-new-ideas-and-emerging-results-track)) <br>
+**Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
+<i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/marcilio-furia-icsme23.pdf)
+<i class="fas fa-fw fa-table" aria-hidden="true"></i> [Dataset](https://doi.org/10.6084/m9.figshare.23634747)
+
 ### [What Is Thrown? Lightweight Precise Automatic Extraction of Exceptional Preconditions in Java Methods](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)
 38th IEEE International Conference on Software Maintenance and Evolution ([ICSME 2022](https://cyprusconferences.org/icsme2022/)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
