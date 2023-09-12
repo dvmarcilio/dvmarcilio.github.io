@@ -17,7 +17,7 @@ and
 ## 2021–Today
 
 ### [Lightweight Precise Automatic Extraction of Exceptional Preconditions in Java Methods](https://dvmarcilio.github.io/papers/wit-EMSE-Marcilio.pdf)
-Empirical Software Engineering ([EMSE 2023](https://www.springer.com/journal/10664)) <br>
+accepted at Empirical Software Engineering ([EMSE 2023](https://www.springer.com/journal/10664)) <br>
 This paper extends the [ICSME paper](https://dvmarcilio.github.io/papers/wit-icsme22.pdf) with a similar title <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/wit-EMSE-Marcilio.pdf)
