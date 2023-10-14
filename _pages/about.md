@@ -14,9 +14,9 @@ Since October 2019, I've been a Ph.D. student in the [Software Institute](https:
 
 My research interests center around _aiding developers_ when _understanding_, _writing_, _evolving_, and _maintaining_ **source code**.
 
-I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of useful violations  ([JSS 2020](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)), which fixes were welcomed by established open-source projects.
+I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of frequently fixed violations  ([JSS 2020](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)), which fixes were welcomed by established open-source projects.
 
-More recently, I've been exploring Java Exceptions. I've looked into how developers of popular open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)) and devised a technique to automatically extract exception preconditions of methods ([ICSME 2022](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)). We used some of our extracted preconditions to add and improve the documentation of Apache projects.
+More recently, I've been exploring Java Exceptions. I've looked into how developers of popular open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)) and devised a technique to automatically extract exception preconditions of methods ([ICSME 2022](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)). We used some of our extracted preconditions to improve and add to the documentation of Apache projects.
 
 From September to December 2022, I was an intern in the [Uber Programming Systems Group](https://www.uber.com/dk/en/about/science/) working from the lively Aarhus, Denmark.
 I had the pleasure to work closely with [Dr. Raj Barik](https://scholar.google.com/citations?user=uKlmCxAAAAAJ&hl=en) and [Dr. Ameya Ketkar](https://ameya-ketkar.notion.site/ameya-ketkar/About-me-afad4849885542b8865c3bf44402af9a) on static analysis and refactoring tools.
