@@ -19,7 +19,7 @@ I've investigated which kind of static analysis tools violations Java developers
 More recently, I've been exploring Java Exceptions. I've looked into how developers of popular open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)) and devised a technique to automatically extract exception preconditions of methods ([ICSME 2022](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)). We used some of our extracted preconditions to improve and add to the documentation of Apache projects.
 
 From September to December 2022, I was an intern in the [Uber Programming Systems Group](https://www.uber.com/dk/en/about/science/) working from the lively Aarhus, Denmark.
-I had the pleasure to work closely with [Dr. Raj Barik](https://scholar.google.com/citations?user=uKlmCxAAAAAJ&hl=en) and [Dr. Ameya Ketkar](https://ameya-ketkar.notion.site/ameya-ketkar/About-me-afad4849885542b8865c3bf44402af9a) on static analysis and refactoring tools.
+I had the pleasure of working closely with [Dr. Raj Barik](https://scholar.google.com/citations?user=uKlmCxAAAAAJ&hl=en) and [Dr. Ameya Ketkar](https://ameya-ketkar.notion.site/ameya-ketkar/About-me-afad4849885542b8865c3bf44402af9a) on static analysis and refactoring tools.
 My main contribution was adding GoLang support to [Piranha](https://github.com/uber/piranha), a tool for cleaning up code related to feature flags.
 
 You can see more of my work in [publications](https://dvmarcilio.github.io/publications). 
@@ -27,9 +27,9 @@ Please reach me at diego.marcilio@usi.ch
 
 ### Background
 
-In August 2019, I earned my master's degree from [the University of Brasília (UnB)](https://international.unb.br/), in Brazil, under the supervision of [Prof. Dr. Rodrigo Bonifácio](https://rbonifacio.github.io/). During that time, I also had the privilege of working along with [Prof. Dr. Gustavo Pinto](https://gustavopinto.org/), [Prof. Dr. Edna Canedo](https://ednacanedo.github.io/), and Prof. Furia.
+In August 2019, I earned my master's degree from [the University of Brasília (UnB)](https://international.unb.br/) in Brazil, under the supervision of [Prof. Dr. Rodrigo Bonifácio](https://rbonifacio.github.io/). During that time, I also had the privilege of working with [Prof. Dr. Gustavo Pinto](https://gustavopinto.org/), [Prof. Dr. Edna Canedo](https://ednacanedo.github.io/), and Prof. Furia.
 
-My master thesis was awarded 1st place ([in Portuguese](http://ppgi.unb.br/index.php?option=com_content&view=article&id=440:premiomestrado&catid=80&lang=pt&Itemid=489)) in the thesis competition at the Brazilian Symposium on Software Engineering 2020 ([SBES](http://cbsoft2020.imd.ufrn.br/sbes-ctd.php)), which considered master theses defended in Brazil during 2019.
+My master's thesis was awarded 1st place in the thesis competition at the Brazilian Symposium on Software Engineering 2020 ([SBES](http://cbsoft2020.imd.ufrn.br/sbes-ctd.php)), which considered master theses defended in Brazil during 2019.
 
-Before and during my master's, I worked for more than seven years as a Software Engineer in Brasília, Brazil.
+Before and during my master's, I worked for over seven years as a Software Engineer in Brasília, Brazil.
 This practical experience deeply motivates my research interests.
