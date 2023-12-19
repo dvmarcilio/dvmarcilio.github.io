@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Diego Marcilio"
 title_separator          : "-"
 name                     : &name "Diego Marcilio"
-description              : &description "PhD student at USI - Università della Svizzera italiana"
+description              : &description "Software Engineer at Uber"
 url                      : https://dvmarcilio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dvmarcilio.github.io"
@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Diego Marcilio"
   avatar           : "gravatar.jpeg"
-  bio              : "PhD student at Università della Svizzera italiana (USI)"
-  location         : "Lugano, Switzerland"
+  bio              : "Software Engineer at Uber"
+  location         : "Amsterda, the Netherlands"
   linkedin         : "dvmarcilio"
   github           : "dvmarcilio"
   twitter          : "dvmarcilio"
   dblp             : "Marcilio:Diego"
   google_scholar   : "mFmiw14mkJEC"
   uri              : "https://dvmarcilio.github.io"
-  email            : "diego.marcilio@usi.ch"
+  email            : "dvmarcilio@gmail.com"
 
 
 # Reading Files
