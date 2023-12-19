@@ -10,26 +10,8 @@ redirect_from:
 
 Hi, I'm **Diego Marcilio**.
 
-Since October 2019, I've been a Ph.D. student in the [Software Institute](https://www.si.usi.ch/) part of the [Faculty of Informatics](https://www.inf.usi.ch) at the [Università della Svizzera italiana (also known as USI)](https://www.usi.ch/en), in Lugano, Switzerland. I am currently working under the supervision of [Prof. Dr. Carlo A. Furia](https://bugcounting.net/).
+I'm a software engineer at [Uber's Programming Systems Group](https://www.uber.com/nl/en/about/science/), where I develop program analysis and refactoring tools to increase developers' productivity and improve code quality.
 
-My research interests center around _aiding developers_ when _understanding_, _writing_, _evolving_, and _maintaining_ **source code**.
+I'm interested in all things related to source code, including mining repositories, program transformations, and code review. Before Uber, I got a PhD in 2023 from [USI](https://www.si.usi.ch/) in Switzerland, advised by [Prof. Carlo A. Furia](https://bugcounting.net).
 
-I've investigated which kind of static analysis tools violations Java developers fix ([ICPC 2019](https://dvmarcilio.github.io/papers/icpc2019.pdf)) and proposed a technique to automatically fix a subset of frequently fixed violations  ([JSS 2020](https://dvmarcilio.github.io/papers/jss20-spongebugs.pdf)), which fixes were welcomed by established open-source projects.
-
-More recently, I've been exploring Java Exceptions. I've looked into how developers of popular open-source projects write JUnit tests exercising exceptions ([MSR 2021](https://dvmarcilio.github.io/msr21)) and devised a technique to automatically extract exception preconditions of methods ([ICSME 2022](https://dvmarcilio.github.io/papers/wit-icsme22.pdf)). We used some of our extracted preconditions to improve and add to the documentation of Apache projects.
-
-From September to December 2022, I was an intern in the [Uber Programming Systems Group](https://www.uber.com/dk/en/about/science/) working from the lively Aarhus, Denmark.
-I had the pleasure of working closely with [Dr. Raj Barik](https://scholar.google.com/citations?user=uKlmCxAAAAAJ&hl=en) and [Dr. Ameya Ketkar](https://ameya-ketkar.notion.site/ameya-ketkar/About-me-afad4849885542b8865c3bf44402af9a) on static analysis and refactoring tools.
-My main contribution was adding GoLang support to [Piranha](https://github.com/uber/piranha), a tool for cleaning up code related to feature flags.
-
-You can see more of my work in [publications](https://dvmarcilio.github.io/publications). 
-Please reach me at diego.marcilio@usi.ch 
-
-### Background
-
-In August 2019, I earned my master's degree from [the University of Brasília (UnB)](https://international.unb.br/) in Brazil, under the supervision of [Prof. Dr. Rodrigo Bonifácio](https://rbonifacio.github.io/). During that time, I also had the privilege of working with [Prof. Dr. Gustavo Pinto](https://gustavopinto.org/), [Prof. Dr. Edna Canedo](https://ednacanedo.github.io/), and Prof. Furia.
-
-My master's thesis was awarded 1st place in the thesis competition at the Brazilian Symposium on Software Engineering 2020 ([SBES](http://cbsoft2020.imd.ufrn.br/sbes-ctd.php)), which considered master theses defended in Brazil during 2019.
-
-Before and during my master's, I worked for over seven years as a Software Engineer in Brasília, Brazil.
-This practical experience deeply motivates my research interests.
+Please leave me a note at dvmarcilio [at] gmail [dot] com
