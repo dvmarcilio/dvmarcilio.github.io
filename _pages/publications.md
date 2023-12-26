@@ -17,14 +17,15 @@ and
 ## 2021–Today
 
 ### [Lightweight Precise Automatic Extraction of Exceptional Preconditions in Java Methods](https://dvmarcilio.github.io/papers/wit-EMSE-Marcilio.pdf)
-accepted at Empirical Software Engineering ([EMSE 2023](https://www.springer.com/journal/10664)) <br>
+Empirical Software Engineering ([EMSE 2023](https://www.springer.com/journal/10664)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 This paper extends the [ICSME paper](https://dvmarcilio.github.io/papers/wit-icsme22.pdf) with a similar title <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/wit-EMSE-Marcilio.pdf)
 <i class="fas fa-fw fa-copy" aria-hidden="true"></i> [Replication package](https://doi.org/10.6084/m9.figshare.22217014)
+<i class="fas fa-fw fa-link" aria-hidden="true"></i> [Open Access](https://link.springer.com/article/10.1007/s10664-023-10392-x)
 
 ### [Towards Code Improvements Suggestions from Client Exception Analysis](https://dvmarcilio.github.io/papers/marcilio-furia-icsme23.pdf)
-accepted at 39th IEEE International Conference on Software Maintenance and Evolution ([ICSME 2023 NIER](https://conf.researchr.org/track/icsme-2023/icsme-2023-new-ideas-and-emerging-results-track)) <br>
+39th IEEE International Conference on Software Maintenance and Evolution ([ICSME 2023 NIER](https://conf.researchr.org/track/icsme-2023/icsme-2023-new-ideas-and-emerging-results-track)) <br>
 **Diego Marcilio**, [Carlo A. Furia](https://bugcounting.net/) <br>
 <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> [Preprint](https://dvmarcilio.github.io/papers/marcilio-furia-icsme23.pdf)
 <i class="fas fa-fw fa-table" aria-hidden="true"></i> [Dataset](https://doi.org/10.6084/m9.figshare.23634747)
